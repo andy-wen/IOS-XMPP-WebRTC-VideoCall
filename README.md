@@ -14,8 +14,10 @@ Workflow:
 
 2. Set "Bundle Identifier" and "Code Signing Identity"
 
+2.5 find "anewstech.com" in the code and replace to vvminds.com
+
 3. Connect iphone
-3.5 find "anewstech.com" in the code and replace to vvminds.com
+
 4. run App on iphone1 by username: andy1@vvminds.com and password:andy
 
 5. run App on iphone2 by username: andy2@vvminds.com and password:andy
