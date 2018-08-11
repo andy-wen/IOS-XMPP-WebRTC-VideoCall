@@ -20,7 +20,7 @@ run App on iphone2 by username: andy2@anewstech and password:andy
 
 wait the user online and click it, video call will start.
 
-any problem, please send e-mail to andy@anewstech.com
+any problem, please send e-mail to wenyanfei@139.com
 
 
 An XMPP Framework in Objective-C for the Mac / iOS development community.
